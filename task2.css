@@ -1,0 +1,86 @@
+
+html, body{
+  display:grid;
+  height:100%;
+  text-align:center;
+  background:azure;
+  background-image: url("https://content.mycutegraphics.com/graphics/balloons/robot-with-balloon.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  
+  
+.forward {
+
+
+  position:absolute ;
+  bottom: 50px;
+  right: 50px;
+  left:   588px;
+  top: 200px;
+
+
+}
+
+
+
+.left {
+
+
+  position:absolute ;
+  bottom: 50px;
+  right: 50px;
+  left:   700px;
+  top: 300px;
+
+
+}
+
+.stop {
+
+
+  position:absolute ;
+  bottom: 50px;
+  right: 50px;
+  left:   600px;
+  top: 300px;
+
+
+}
+
+
+
+.right{
+
+
+  position:absolute ;
+  bottom: 50px;
+  right: 50px;
+  left:   500px;
+  top: 300px;
+
+
+}
+
+
+
+.backward {
+
+
+  position:absolute ;
+  bottom: 50px;
+  right: 50px;
+  left:   588px;
+  top: 400px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
